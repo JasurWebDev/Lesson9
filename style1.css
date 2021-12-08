@@ -1,0 +1,60 @@
+body {
+    background-image: url("./img/bacg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+.menu {
+    background-color: white;
+    background-position: center;
+    margin-top: 150px;
+    margin-left: 250px;
+    margin-bottom: 150px;
+    margin-right: 250px;
+    border-radius: 20px;
+}
+.salom {
+   width: 40%;
+   padding-top: 100px;
+   padding-left: 30px;
+   padding-bottom: 5px;
+   margin-bottom: 10px;
+   background-position: center; 
+}
+.alik {
+    width: 40%;
+    padding-top: 90px;
+    padding-left: 8px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    background-position:center;
+    }
+.aloo {
+    width: 335px;
+    height: 50px;
+    border-radius: 20px;
+    margin-bottom: 12px;
+    background-color: rgba(17, 17, 233, 0.877);
+    color: white;
+}
+.h1 {
+  padding-top: 0 0;
+  margin-top: 1px;
+  color: rgb(71, 177, 219);
+}
+.choose {
+    padding-top: 15px;
+    padding-bottom: 3px;
+    margin: 2px 0;
+    color:rgb(71, 177, 219);
+}
+.oooo {
+    padding-bottom: 0;
+    margin-bottom: 2px;
+    color: rgb(71, 177, 219);
+}
+.nike {
+ padding-top: 0 0;
+}
